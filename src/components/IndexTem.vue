@@ -13,7 +13,7 @@ export default {
   name: 'IndexTem',
   data () {
     return {
-      msg: '欢迎来到Vue3.0实验三首页！'
+      msg: '欢迎来到Vue3.0实验四首页！'
     }
   },
   beforeCreate () {

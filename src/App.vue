@@ -53,7 +53,7 @@
 export default {
   data () {
     return {
-      title: 'Vue3.0实验三',
+      title: 'Vue3.0实验四',
       menu: {
         shopBool: {
           field: 'shopBool',
